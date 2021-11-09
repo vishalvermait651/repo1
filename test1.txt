@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5654-84E6
+
+ Directory of C:\Users\vishal\Desktop\Myproject
+
+2021-11-08  08:34 PM    <DIR>          .
+2021-11-08  08:34 PM    <DIR>          ..
+2021-11-08  08:34 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  599,631,826,944 bytes free
